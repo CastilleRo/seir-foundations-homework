@@ -1,0 +1,20 @@
+Student: LJ_Shibumi
+Date: 2026-10-26
+
+Group status: I am not part of a formal study group or spotter pair.
+
+Context: I am attending Class 8 as a refresher. I am a Class 3 alum, and I was welcomed into the class as an add-on by Sensei Theo,
+as I had recommended a current Class 8a student (Jeremiah Walsh). In terms of Certs, I currently have the CCP, AWS SAAssoc, AWS SAPro,
+and AWS Security Specialty Certs. I am separately and currently working on 4 AWS Security Projects, HOWEVER, I would like to
+complete the labs and homework to review the fundamentals and stay current with the course, as I most likely forgot some things
+since Class 3. But I am ramping up to hopefully start the interview process early next year. Kindly let me know if this is OK with Theo.
+If I misunderstood, let me know. I am not seeking special treatment.
+
+Spotter: none (refresher student)
+Group members: none
+
+I will update this file if that changes.
+
+L.J.
+
+
