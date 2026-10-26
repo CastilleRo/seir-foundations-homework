@@ -1,1 +1,1 @@
-# Class8-week1
+# seir-foundations-homework
