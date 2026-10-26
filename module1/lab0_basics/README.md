@@ -4,9 +4,9 @@
 
 | Deployment | Instance ID | Public IPv4 | Connection method | Screenshot | Terminated? |
 |---|---|---|---|---|---|
-| 1 | i-09852d8b02015310b | 52.87.185.194 | EC2 Instance Connect | screenshots/Shibumi_deployment-1.png | Yes |
-| 2 | <instance ID> | 32.192.7.27 | EC2 Instance Connect | screenshots/Shibumi_deployment2.png | Yes |
-| 3 | <instance ID> | 54.197.187.200 | EC2 Instance Connect | screenshots/Shibumi_deployment3.png | Yes |
+| 1 | i-09852d8b02015310b | 52.87.185.194 | EC2 Instance Connect | screenshots/deployment-1.png | Yes |
+| 2 | i-0daefc760f08aa6c6 | 32.192.7.27 | EC2 Instance Connect | screenshots/deployment-2.png | Yes |
+| 3 | i-0566d92f0d87edf9c | 54.197.187.200 | EC2 Instance Connect | screenshots/deployment-3.png | Yes |
 
 Terminated instances: screenshots/Shibumi_Terminated_deployments.png
 
