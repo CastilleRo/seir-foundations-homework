@@ -1,0 +1,14 @@
+Student: LJ_Shibumi
+Date: 2026-10-26
+
+Group status: I am not part of a formal study group or spotter pair.
+
+Context: I am attending Class 8 as a refresher. I am a previous class alum, and I was welcomed into the class as an add-on by our Sensei, as I had recommended a current class student. In terms of certs, I currently hold 4 AWS certifications and am working toward the Terraform Associate. I am completing the labs and homework to review the fundamentals and stay current with the course, as I have likely forgotten some things since my class. Kindly let me know if this is OK with Sensei. 
+
+Spotter: none (refresher student)
+Group members: none
+
+I will update this file if that changes.
+
+
+
