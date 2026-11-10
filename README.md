@@ -7,6 +7,7 @@ Homework for SEIR Foundations (Class 8).
 - [Lab 0: basics](module1/lab0_basics)
 - [Lab 0.5: basics, continued](module1/lab0.5_basics_contd)
 - [Balerica Legacy Bank install (runbook steps 0-9)](#balerica-legacy-bank-install-runbook-steps-0-9), runs 1-5 below
+- [Lesson 2: Slack alerts (Week 4)](#lesson-2-slack-alerts-week-4)
 
 ## Balerica Legacy Bank install (runbook steps 0-9)
 
@@ -39,6 +40,19 @@ Key evidence screenshots in the run 5 folder:
 - `run5-05e-role-policy-marketplace`: the fix
 - `run5-05-ask-bedrock`: the result
 
+## Lesson 2: Slack alerts (Week 4)
+
+Connected the Balerica bank EC2 instance to my own Slack workspace so Python scripts send alerts to `#balerica-alerts` through an Incoming Webhook. Completed the seven homework scripts (hw1 to hw7) and the four experiments.
+
+All files are in [module1/lesson2_slack_hw](module1/lesson2_slack_hw):
+
+- [week4-notes.md](module1/lesson2_slack_hw/week4-notes.md): setup, the answer to each script's "In your notes" question, and the experiments (prediction vs result)
+- `slack-01-test-alert.png`: first alert from `python slack.py --test`
+- `slack-02-hw-alerts.png`: Slack channel showing alerts from five different homework scripts
+- `slack-03-hw7-terminal.png`: terminal with the ID line and the morning report
+
+Setup notes: launched a fresh instance from template v6 as `ec2-user`, installed the bank, and saved a clean AMI (`Shibumi-bank-no-slack-Nov09`) before adding any Slack configuration.
+
 ## Privacy
 
-AWS account identifiers and user names are redacted in all screenshots. No keys or credentials are included. YOU AIN'T GETTIN' THEM! :)
+AWS account identifiers and user names are redacted in all screenshots. Slack workspace URLs are covered in the Week 4 screenshots. No keys, credentials, `.env` files or webhook URLs are included. YOU AIN'T GETTIN' THEM! :)
