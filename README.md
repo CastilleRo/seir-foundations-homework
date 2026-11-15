@@ -8,6 +8,7 @@ Homework for SEIR Foundations (Class 8).
 - [Lab 0.5: basics, continued](module1/lab0.5_basics_contd)
 - [Balerica Legacy Bank install (runbook steps 0-9)](#balerica-legacy-bank-install-runbook-steps-0-9), runs 1-5 below
 - [Lesson 2: Slack alerts (Week 4)](#lesson-2-slack-alerts-week-4)
+- [Lesson 3: Jira Cloud Free (Week 5)](#lesson-3-jira-cloud-free-week-5)
 
 ## Balerica Legacy Bank install (runbook steps 0-9)
 
@@ -53,6 +54,19 @@ All files are in [module1/lesson2_slack_hw](module1/lesson2_slack_hw):
 
 Setup notes: launched a fresh instance from template v6 as `ec2-user`, installed the bank, and saved a clean AMI (`Shibumi-bank-no-slack-Nov09`) before adding any Slack configuration.
 
+## Lesson 3: Jira Cloud Free (Week 5)
+
+Created my own Jira Cloud Free site and a team-managed Kanban space, **Balerica AI Incident Management** (key `BAI`), then a manual test incident, `BAI-4`: `TEST — EC2 application error`. A later lab will have `jira.py` create tickets like this automatically from Balerica AI errors.
+
+All files are in [module1/lesson3_jira_hw](module1/lesson3_jira_hw):
+
+- [week5-notes.md](module1/lesson3_jira_hw/week5-notes.md): setup, what did not go as expected (key `KAN` changed to `BAI`, sample tickets, access set to Private), and class notes
+- `jira-01-board-bai-incident.png`: list view with the space and BAI-4
+- `jira-02-test-incident-bai4.png`: BAI-4 opened
+- `jira-03-space-key-bai.png`: space settings showing key BAI
+
+No API token was created, as the lab instructs.
+
 ## Privacy
 
-AWS account identifiers and user names are redacted in all screenshots. Slack workspace URLs are covered in the Week 4 screenshots. No keys, credentials, `.env` files or webhook URLs are included. YOU AIN'T GETTIN' THEM! :)
+AWS account identifiers and user names are redacted in all screenshots. Slack workspace URLs are covered in the Week 4 screenshots, and the Jira site URL and email are not shown in the Week 5 screenshots. No keys, credentials, `.env` files or webhook URLs are included. YOU AIN'T GETTIN' THEM! :)
